@@ -49,7 +49,7 @@ En [`samples/`](samples/):
 ## Conseguir el pack completo
 
 Disponible en Gumroad (enlace próximamente). Para información o early access,
-contacto a través de [LinkedIn](https://www.linkedin.com/in/ariel-hidalgo).
+contacto a través de [LinkedIn](www.linkedin.com/in/ariel-alejandro-hidalgo-rodríguez-a63538413).
 
 ## Licencia
 
